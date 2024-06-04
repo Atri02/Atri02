@@ -1,4 +1,4 @@
-![Header](https://barretto-co.com/live/wp-content/uploads/2021/10/ServiceNow_Neon_03_OceanSpray.gif)
+![Header](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/530df3136633175.62037d9e18479.gif)
 <h1 align="center">Hi 👋, I'm Atri Ghosh 👋</h1> 
 <h3 align="center">A passionate ServiceNow Developer 💻 & Gamer 🎮 from Kolkata, India</h3>
 
