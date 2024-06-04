@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atri Ghosh</h1>
 <h3 align="center">A passionate ServiceNow Developer 💻 & Gamer 🎮 from Kolkata, India</h3>
-<img align="right" alt="Coding" width="400" src= src="https://giphy.com/embed/qgQUggAC3Pfv687qPC.gif">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 - 🔭 I’m currently working on **Lufthansa Airlines**
 
