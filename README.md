@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](https://cdn.dribbble.com/users/3893948/screenshots/11875169/media/3ea95e77c9cf16c676c60e8da761159c.gif)
 <h1 align="center">Hi 👋, I'm Atri Ghosh 👋</h1> 
 <h3 align="center">A passionate ServiceNow Developer 💻 & Gamer 🎮 from Kolkata, India</h3>
 
